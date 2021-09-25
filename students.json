@@ -1,0 +1,72 @@
+[
+{
+    "model": "Student_Api_App.student",
+    "pk": 1,
+    "fields": {
+        "s_name": "Padmaja",
+        "s_class": 12,
+        "s_city": "Vizag",
+        "s_lover": "Saravanan"
+    }
+},
+{
+    "model": "Student_Api_App.student",
+    "pk": 2,
+    "fields": {
+        "s_name": "Saravanan",
+        "s_class": 12,
+        "s_city": "Chennai",
+        "s_lover": "Padmaja"
+    }
+},
+{
+    "model": "Student_Api_App.student",
+    "pk": 3,
+    "fields": {
+        "s_name": "Hemanth",
+        "s_class": 12,
+        "s_city": "Hyderabad",
+        "s_lover": "Sindhuja"
+    }
+},
+{
+    "model": "Student_Api_App.student",
+    "pk": 4,
+    "fields": {
+        "s_name": "Bujji",
+        "s_class": 11,
+        "s_city": "Vizag",
+        "s_lover": "Ram"
+    }
+},
+{
+    "model": "Student_Api_App.student",
+    "pk": 5,
+    "fields": {
+        "s_name": "Mani",
+        "s_class": 10,
+        "s_city": "Harur",
+        "s_lover": "Vanitha"
+    }
+},
+{
+    "model": "Student_Api_App.student",
+    "pk": 6,
+    "fields": {
+        "s_name": "Kavin",
+        "s_class": 11,
+        "s_city": "Chennai",
+        "s_lover": "Losliya"
+    }
+},
+{
+    "model": "Student_Api_App.student",
+    "pk": 7,
+    "fields": {
+        "s_name": "Mega Shyam",
+        "s_class": 8,
+        "s_city": "Vizag",
+        "s_lover": "Pavitra"
+    }
+}
+]
